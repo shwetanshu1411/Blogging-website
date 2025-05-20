@@ -8,7 +8,25 @@ A scalable and secure full-stack blog application enabling authenticated users t
 
 This application provides a feature-rich blogging experience tailored for individual users. It supports blog creation, previewing images before upload, categorization, and secure CRUD operations — all under user authentication.
 
-> Developed with scalability, modularity, and user experience in mind.
+*This is a full-stack blogging platform with distinct user and admin roles implemented using JWT-based authentication. Key features include:
+
+User Role:
+
+Secure login
+
+Can read and browse all blog posts
+
+Admin Role:
+
+Secure login
+
+Can create, update, and delete blog posts
+
+Image Management:
+
+Integrated with Cloudinary for efficient image upload and management
+
+This system ensures clean role-based access control with a modern UI and scalable backend, ideal for content-driven platforms.
 
 ---
 
